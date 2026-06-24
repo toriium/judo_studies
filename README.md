@@ -33,6 +33,7 @@
 
 # Fundamentos Judo de Pie
 **Tachi Waza**: Técnicas de pie
+**Nage Waza**: Técnicas de proyección
 
 **Kuzushi**: Desequilibrio  
 **Tsukuri**: Preparación  
@@ -78,31 +79,36 @@ Memorization: Te Waza -> Morote-seoi-nage
 
 # Fundamentos Judo de Suelo
 **Ne Waza**: Técnicas de suelo
+**Katame Waza**: Técnicas de control
+
 
 ## Base de las inmovilizaciones
 - Puntos de apoyo
 - Distribución del peso
 - Control del movimiento del adversario
+- Flotabilidad: Mantener el equilibrio y la estabilidad mientras se controla al oponente
+- Anticipación
 
 ## Kansetsu Waza: Luxaciones
 - [Juji gatame](https://www.youtube.com/watch?v=NDaQuJOFBYk) - Llave de brazo
-- [Ude gatame](https://www.youtube.com/watch?v=NDaQuJOFBYk) - Rodilla en el abdomen y agarra el codo
+- [Ude gatame](https://www.youtube.com/watch?v=NDaQuJOFBYk) - Violino con Rodilla en el abdomen y agarra el codo
 - [Ude garami](https://www.youtube.com/watch?v=NDaQuJOFBYk) - Americana
 - [Ashi garame](https://www.youtube.com/watch?v=NDaQuJOFBYk)
-- [Sankako gatame](https://www.youtube.com/watch?v=NDaQuJOFBYk)
+- [Sankako gatame](https://www.youtube.com/watch?v=NDaQuJOFBYk) - Llave de brazo desde triangulo
 - [Waki gatame](https://www.youtube.com/watch?v=NDaQuJOFBYk) - Rompe el brazo de pie
 
 ## Shime Waza: Estrangulaciones
+Memorization: Nami = Nami LOL, Waves
 - [Hadaka Jime](https://www.youtube.com/watch?v=NDaQuJOFBYk) - Mano con mano
 - [Hadaka ha Jime](https://www.youtube.com/watch?v=NDaQuJOFBYk) - Mata león
 - [Kata ha Jime](https://www.youtube.com/watch?v=NDaQuJOFBYk) - Pulgar en el cuello, otra mano pasando por el brazo detrás de la cabeza
-- [Okuri eri Jime](https://www.youtube.com/watch?v=NDaQuJOFBYk) - Pulgar en el cuello por arriba, otra mano por debajo del brazo
+- [Okuri eri Jime](https://www.youtube.com/watch?v=NDaQuJOFBYk) - Una por ariba otra por abajo - Pulgar en el cuello por arriba, otra mano por debajo del brazo
 - [Sode guruma Jime](https://www.youtube.com/watch?v=NDaQuJOFBYk)
 - [Sankaku jime](https://www.youtube.com/watch?v=NDaQuJOFBYk) - Triángulo
 - [Kata te jime](https://www.youtube.com/watch?v=NDaQuJOFBYk)
 
 
-## Osaekomi Waza: Inmovilizaciones
+## Osaekomi Waza: Tecnicas de Inmovilizaciones
 - [Hon Kesa gatame](https://www.youtube.com/watch?v=NDaQuJOFBYk) - Una mano abrazando la cabeza, dedo en el cuello, otra sujetando el brazo y agarrando el kimono, piernas en tijera, baja la cabeza
 - [Kuzure kesa gatame](https://www.youtube.com/watch?v=Q2fb9jaoUFQ) - Una mano abrazando el brazo por abajo, otra sujetando el brazo y agarrando el kimono, piernas en tijera
 - [Kata gatame](https://www.youtube.com/watch?v=zQR3IOXxO_Q) - Montado, pasa el brazo al lado y abraza la cabeza y el brazo con el otro, mano con mano

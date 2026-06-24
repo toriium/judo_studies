@@ -51,13 +51,29 @@ Memorization: Ashi Waza -> De-ashi-harai
 - [O-uchi-gari](https://www.youtube.com/watch?v=0itJFhV9pDQ) - Gancho pierna izquierda
 - [O-uchi-gari](https://www.youtube.com/watch?v=0itJFhV9pDQ) - Gancho pierna derecha
 
-### Te Waza: Técnicas de brazo
+### Te Waza: Técnicas de Hombro y brazo
 Memorization: Te Waza -> Morote-seoi-nage
 - [Morote-seoi-nage](https://www.youtube.com/watch?v=UjtL1h9htb8) - Ippon, pero con mano en el cuello derecho
 - [Ippon-seoi-nage](https://www.youtube.com/watch?v=FQnOlCxo4oI) - Proyección de hombro con agarre de ippon
 - [Seoi-otoshi](https://www.youtube.com/watch?v=vu1TMVNnq34) - Agarre de ippon y se proyecta de rodilla
 
 ### Sutemi Waza: Técnicas de sacrificio
+
+#### Ma Sutemi Waza: Técnicas de Sacrificio con apoyo de espalda
+- [Tomoe Nage](https://www.youtube.com/watch?v=NDaQuJOFBYk) - 
+- [Sumi Gaeshi](https://www.youtube.com/watch?v=NDaQuJOFBYk) -
+- [Hikikomi Gaeshi](https://www.youtube.com/watch?v=NDaQuJOFBYk) -
+- [Ura Nage](https://www.youtube.com/watch?v=NDaQuJOFBYk) -
+
+#### Yoko Sutemi Waza: Técnicas de Sacrificio con apoyo de un costado
+- [Yoko otoshi](https://www.youtube.com/watch?v=NDaQuJOFBYk) -
+- [Tani otoshi](https://www.youtube.com/watch?v=NDaQuJOFBYk) -
+- [Hanae Makikomi](https://www.youtube.com/watch?v=NDaQuJOFBYk) -
+- [Soto Makikomi](https://www.youtube.com/watch?v=NDaQuJOFBYk) -
+- [Uki Waza](https://www.youtube.com/watch?v=NDaQuJOFBYk) -
+- [Yoko Wakare](https://www.youtube.com/watch?v=NDaQuJOFBYk) -
+- [Yoko guruma](https://www.youtube.com/watch?v=NDaQuJOFBYk) -
+- [Yoko gake](https://www.youtube.com/watch?v=NDaQuJOFBYk) -
 - 
 
 # Fundamentos Judo de Suelo

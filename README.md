@@ -49,8 +49,20 @@ Memorization: Koshi Waza -> Koshi-guruma
 ### Ashi Waza: Técnicas de pierna
 Memorization: Ashi Waza -> De-ashi-harai
 - [De-ashi-harai](https://www.youtube.com/watch?v=4BUUvqxi_Kk) - Jala hacia atrás y cuando vuelva golpea el pie izquierdo
-- [O-uchi-gari](https://www.youtube.com/watch?v=0itJFhV9pDQ) - Gancho pierna izquierda
-- [O-uchi-gari](https://www.youtube.com/watch?v=0itJFhV9pDQ) - Gancho pierna derecha
+- [okuri-ashi-harai](https://www.youtube.com/watch?v=4BUUvqxi_Kk) - ADD
+- [harai-tsutikomi-ashi](https://www.youtube.com/watch?v=4BUUvqxi_Kk) - ADD
+- [Hiza-guruma](https://example.com) - rueda por la rodilla
+- [Sasae-tsurikomi-ashi](https://example.com) - rueda por el pie
+- [osoto-gari](https://example.com) - ADD
+- [osoto-otoshi](https://example.com) - ADD
+- [osoto-guruma](https://example.com) - osoto-gari em las 2 piernas
+- [kosoto-gari](https://example.com) - pierna isquierda por fuera de la pierna derecha
+- [Kosoto-gake](https://www.youtube.com/watch?v=0itJFhV9pDQ) - kosoto-gari con gancho
+- [Ko-uchi-gari](https://www.youtube.com/watch?v=0itJFhV9pDQ) - Gancho interno pierna derecha
+- [O-uchi-gari](https://www.youtube.com/watch?v=0itJFhV9pDQ) - Gancho interno pierna izquierda mano para tras
+- [O-guruma](https://example.com) - ADD
+- [Ashi-guruma](https://example.com) - O-guruma en las rodillas
+- [Uchi-mata](https://www.youtube.com/watch?v=0itJFhV9pDQ) - ADD
 
 ### Te Waza: Técnicas de Hombro y brazo
 Memorization: Te Waza -> Morote-seoi-nage
@@ -114,7 +126,7 @@ Memorization: Nami = Nami LOL, Waves
 - [Kata gatame](https://www.youtube.com/watch?v=zQR3IOXxO_Q) - Montado, pasa el brazo al lado y abraza la cabeza y el brazo con el otro, mano con mano
 
 # Glosario
-- **Rei**: Saludo
+- **Rei**: Saludo de pie
 - **Tokui Waza**: Técnica especial de pie y suelo
 - **Shisei**: Posiciones
 - **Sintae**: Desplazamientos

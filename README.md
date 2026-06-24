@@ -125,15 +125,36 @@ Memorization: Nami = Nami LOL, Waves
 - [Kuzure kesa gatame](https://example.com) - Una mano abrazando el brazo por abajo, otra sujetando el brazo y agarrando el kimono, piernas en tijera
 - [Kata gatame](https://example.com) - Montado, pasa el brazo al lado y abraza la cabeza y el brazo con el otro, mano con mano
 
-# Glosario
+
+# Shisei: Posturas
+## defensa
+- Jigo hon Tai: Postura Basica de defensa
+- Migi Jigo Tai: Postura defensa de derecha
+- Hidari Jigo Tai: Postura defensa de izquierda
+## natural
+- Shizen Hon Tai: Postura Basica natural
+- Migi Shizen Tai: Postura natural de derecha
+- Hidari Shizen Tai: Postura natural de izquierda
+
+# Posiciones:
+- **Seiza**: sentado de rodillas
 - **Rei**: Saludo de pie
+- **Za-rei**: Saludo de rodillas - Posicion Seiza
+
+# Typos de Entrenamiento
+- **Uchikomi**: Repeticiones de técnica sin proyección
+- **Nagekomi**: Repeticion de tecnica con Proyecciones
+- **Yaku Soku Geiko**: Estudio de ataque sin efensa
+- **kakari geiko**: Entrenamiento de ataque con defensa
+- **Randori**: Práctica libre
+- **tandoku renshu**: Entrenamiento individual/solo
+- **Sotai Reshu**: Entrenamiento en pareja
+
+# Glosario
 - **Tokui Waza**: Técnica especial de pie y suelo
-- **Shisei**: Posiciones
-- **Sintae**: Desplazamientos
-- **Uchikomi**: Repeticiones
-- **Nagekomi**: Proyecciones
-- **Yaku Soku Geiko**: Estudio en desplazamiento
+- **Sintae**: Desplazamientos de los pies y corpo
+- **Tai sabaki**: Desplazamiento del cuerpo
+- **Kumikata**: Agarre del kimono
 - **Renraku Waza**: Combinaciones
 - **Renzoku Waza**: Encadenamientos
-- **Randori**: Práctica libre
 - **Shiai**: Reglas de competición

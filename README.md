@@ -1,80 +1,99 @@
+
+# Guía de Judo
+
+## Tabla de Contenidos
+- [Ukemi](#ukemi)
+- [Fundamentos Judo de Pie](#fundamentos-judo-de-pie)
+  - [Grupos de Técnicas](#grupos-de-técnicas)
+    - [Koshi Waza: Técnicas de cadera](#koshi-waza-técnicas-de-cadera)
+    - [Ashi Waza: Técnicas de pierna](#ashi-waza-técnicas-de-pierna)
+    - [Te Waza: Técnicas de brazo](#te-waza-técnicas-de-brazo)
+    - [Sutemi Waza: Técnicas de sacrificio](#sutemi-waza-técnicas-de-sacrificio)
+- [Fundamentos Judo de Suelo](#fundamentos-judo-de-suelo)
+  - [Base de las inmovilizaciones](#base-de-las-inmovilizaciones)
+  - [Kansetsu Waza: Luxaciones](#kansetsu-waza-luxaciones)
+  - [Shime Waza: Estrangulaciones](#shime-waza-estrangulaciones)
+  - [Osaekomi Waza: Inmovilizaciones](#osaekomi-waza-inmovilizaciones)
+- [Glosario](#glosario)
+
+---
+
 # Ukemi
-**Ukemi**: Falls
-- Mae-ukemi: Caida pra frente
-- Yoko-ukemi: Sideways breakfall
-  - Migi yoko ukemi: Direita
-  - Hidari yoko ukemi: Esquerda
-- Ushiro-ukemi: Caida para tras
-- Mae-mawari-ukemi: rolamento para frente
+**Ukemi**: Caídas
+- Mae-ukemi: Caída hacia adelante
+- Yoko-ukemi: Caída lateral
+  - Migi yoko ukemi: Derecha
+  - Hidari yoko ukemi: Izquierda
+- Ushiro-ukemi: Caída hacia atrás
+- Mae-mawari-ukemi: Rodada hacia adelante
 
-# Fundamentos Judo Pie
-**Tachi Waza**: Tecnicas de pie
+# Fundamentos Judo de Pie
+**Tachi Waza**: Técnicas de pie
 
-**Kuzuzhi**: Desequilibrio  
+**Kuzushi**: Desequilibrio  
 **Tsukuri**: Preparación  
 **Kake**: Proyección  
 
-## Grupos Técnicas
-### Koshi Waza: Tecnicas de cadera 
+## Grupos de Técnicas
+### Koshi Waza: Técnicas de cadera
 
-- [O Goshi](https://www.youtube.com/watch?v=yhu1mfy2vJ4) - abraca cintura e passa a sua cintura
-- [Uki Goshi](https://www.youtube.com/watch?v=bPKwtB4lyOQ) - Mao no meio da costa e perna no meio dela
-- [Koshi-guruma](https://www.youtube.com/watch?v=SU7Id6uVJ44) - Abraca cabeca e joga de cadera
+- [O Goshi](https://www.youtube.com/watch?v=yhu1mfy2vJ4) - Abraza la cintura y pasa tu cadera
+- [Uki Goshi](https://www.youtube.com/watch?v=bPKwtB4lyOQ) - Mano en el medio de la espalda y pierna en el medio de ella
+- [Koshi-guruma](https://www.youtube.com/watch?v=SU7Id6uVJ44) - Abraza la cabeza y proyecta de cadera
 
-### Ashi Waza: Tecnicas de perna 
-- [O-uchi-gari](https://www.youtube.com/watch?v=0itJFhV9pDQ) - Gancho perna esquerda
-- [O-uchi-gari](https://www.youtube.com/watch?v=0itJFhV9pDQ) - Gancho perna direita
-- [De-ashi-harai](https://www.youtube.com/watch?v=4BUUvqxi_Kk) - puxa para tras e quando voltar bate no pè esquerdo
+### Ashi Waza: Técnicas de pierna
+- [O-uchi-gari](https://www.youtube.com/watch?v=0itJFhV9pDQ) - Gancho pierna izquierda
+- [O-uchi-gari](https://www.youtube.com/watch?v=0itJFhV9pDQ) - Gancho pierna derecha
+- [De-ashi-harai](https://www.youtube.com/watch?v=4BUUvqxi_Kk) - Jala hacia atrás y cuando vuelva golpea el pie izquierdo
 
-### Te Waza: Tecnicas de braco 
-- [Ippon-seoi-nage](https://www.youtube.com/watch?v=FQnOlCxo4oI) - ipon sla
-- [Morote-seoi-nage](https://www.youtube.com/watch?v=UjtL1h9htb8) - ipon, mas com mao na gola direta
-- [Seoi-otoshi](https://www.youtube.com/watch?v=vu1TMVNnq34) - pegada de ipon, e se joga de joelho
+### Te Waza: Técnicas de brazo
+- [Ippon-seoi-nage](https://www.youtube.com/watch?v=FQnOlCxo4oI) - Proyección de hombro con agarre de ippon
+- [Morote-seoi-nage](https://www.youtube.com/watch?v=UjtL1h9htb8) - Ippon, pero con mano en el cuello derecho
+- [Seoi-otoshi](https://www.youtube.com/watch?v=vu1TMVNnq34) - Agarre de ippon y se proyecta de rodilla
 
-### Sutemi Waza: Tecnicas de sacrificio 
+### Sutemi Waza: Técnicas de sacrificio
 - 
 
-# Fundamentos Judo Suelo
-**Ne Waza**: Tecnicas de suelo
+# Fundamentos Judo de Suelo
+**Ne Waza**: Técnicas de suelo
 
-## Base de las immovilizaciones:
-- Pontos de apoio
-- Distrubuicao de peso
-- Controle do movimento do adversario
+## Base de las inmovilizaciones
+- Puntos de apoyo
+- Distribución del peso
+- Control del movimiento del adversario
 
-## kansetsu waza: Luxacioens
-- [Juji gatame](https://www.youtube.com/watch?v=NDaQuJOFBYk) - Chave de braço
-- [Ude gatame](https://www.youtube.com/watch?v=NDaQuJOFBYk) - Joelho na barrig e pega cotovelo
+## Kansetsu Waza: Luxaciones
+- [Juji gatame](https://www.youtube.com/watch?v=NDaQuJOFBYk) - Llave de brazo
+- [Ude gatame](https://www.youtube.com/watch?v=NDaQuJOFBYk) - Rodilla en el abdomen y agarra el codo
 - [Ude garami](https://www.youtube.com/watch?v=NDaQuJOFBYk) - Americana
 - [Ashi garame](https://www.youtube.com/watch?v=NDaQuJOFBYk)
 - [Sankako gatame](https://www.youtube.com/watch?v=NDaQuJOFBYk)
-- [Waki gatame](https://www.youtube.com/watch?v=NDaQuJOFBYk) - Quebra o braco em pé
+- [Waki gatame](https://www.youtube.com/watch?v=NDaQuJOFBYk) - Rompe el brazo de pie
 
-## Shime waza: Estrangulaciones
-- [Hadaka Jime](https://www.youtube.com/watch?v=NDaQuJOFBYk) - mao-com-mao
-- [Hadaka ha Jime](https://www.youtube.com/watch?v=NDaQuJOFBYk) - mata leao
-- [kata ha Jime](https://www.youtube.com/watch?v=NDaQuJOFBYk) - dedao gola, outrar mao passando pelo braco atras da cabeça
-- [Okuri eri Jime](https://www.youtube.com/watch?v=NDaQuJOFBYk) - Dedao gola por cima, outra mao por baixo do braço
-- [sode guruma Jime](https://www.youtube.com/watch?v=NDaQuJOFBYk)
-- [Sankaku jime](https://www.youtube.com/watch?v=NDaQuJOFBYk) - Triangulo
-- [kata te jime](https://www.youtube.com/watch?v=NDaQuJOFBYk)
+## Shime Waza: Estrangulaciones
+- [Hadaka Jime](https://www.youtube.com/watch?v=NDaQuJOFBYk) - Mano con mano
+- [Hadaka ha Jime](https://www.youtube.com/watch?v=NDaQuJOFBYk) - Mata león
+- [Kata ha Jime](https://www.youtube.com/watch?v=NDaQuJOFBYk) - Pulgar en el cuello, otra mano pasando por el brazo detrás de la cabeza
+- [Okuri eri Jime](https://www.youtube.com/watch?v=NDaQuJOFBYk) - Pulgar en el cuello por arriba, otra mano por debajo del brazo
+- [Sode guruma Jime](https://www.youtube.com/watch?v=NDaQuJOFBYk)
+- [Sankaku jime](https://www.youtube.com/watch?v=NDaQuJOFBYk) - Triángulo
+- [Kata te jime](https://www.youtube.com/watch?v=NDaQuJOFBYk)
 
 
-## Osaekomi Waza: Imobilizaciones 
-- [Hon Kesa gatame](https://www.youtube.com/watch?v=NDaQuJOFBYk) - Uma mao abracando a cabeca, dedo na gola, otra segurando o braco e agarrando kimono, pernar em tesoura, abaixa a cabeca
-- [Kuzure kesa gatame](https://www.youtube.com/watch?v=Q2fb9jaoUFQ) - Uma mao abracando o braco por baixo, otra segurando o braco e agarrando kimono, pernar em tesoura
-- [Kata gatame](https://www.youtube.com/watch?v=zQR3IOXxO_Q) - Montada passa o braco pro lado e abraca a cabeca e obraco com o outro, mao com mao
+## Osaekomi Waza: Inmovilizaciones
+- [Hon Kesa gatame](https://www.youtube.com/watch?v=NDaQuJOFBYk) - Una mano abrazando la cabeza, dedo en el cuello, otra sujetando el brazo y agarrando el kimono, piernas en tijera, baja la cabeza
+- [Kuzure kesa gatame](https://www.youtube.com/watch?v=Q2fb9jaoUFQ) - Una mano abrazando el brazo por abajo, otra sujetando el brazo y agarrando el kimono, piernas en tijera
+- [Kata gatame](https://www.youtube.com/watch?v=zQR3IOXxO_Q) - Montado, pasa el brazo al lado y abraza la cabeza y el brazo con el otro, mano con mano
 
 # Glosario
 - **Rei**: Saludo
-- **Tokui Waza**: Special tecnique ground and standing
-- **Shisei** - Posiciones
-- **Sintae** - Desplazaminetos
-- **Uchikomi** - Repeticiones
-- **Nagekomi** - Proyecciones
-- **Yaku Soku Geiko** - Estudio em deplazamiento
-- **Renraku Waza** - Combinaciones
-- **Renzoku Waza** - Encadenamientos
-- **Randori** - Practica Libre
-- **Shiai** - Reglas de competicion
-
+- **Tokui Waza**: Técnica especial de pie y suelo
+- **Shisei**: Posiciones
+- **Sintae**: Desplazamientos
+- **Uchikomi**: Repeticiones
+- **Nagekomi**: Proyecciones
+- **Yaku Soku Geiko**: Estudio en desplazamiento
+- **Renraku Waza**: Combinaciones
+- **Renzoku Waza**: Encadenamientos
+- **Randori**: Práctica libre
+- **Shiai**: Reglas de competición

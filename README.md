@@ -42,51 +42,51 @@
 ## Grupos de Técnicas
 ### Koshi Waza: Técnicas de cadera
 Memorization: Koshi Waza -> Koshi-guruma  
-- [Koshi-guruma](https://www.youtube.com/watch?v=SU7Id6uVJ44) - Abraza la cabeza y proyecta de cadera
-- [O Goshi](https://www.youtube.com/watch?v=yhu1mfy2vJ4) - Abraza la cintura y pasa tu cadera
-- [Uki Goshi](https://www.youtube.com/watch?v=bPKwtB4lyOQ) - Mano en el medio de la espalda y pierna en el medio de ella
+- [Koshi-guruma](https://example.com) - Abraza la cabeza y proyecta de cadera
+- [O Goshi](https://example.com) - Abraza la cintura y pasa tu cadera
+- [Uki Goshi](https://example.com) - Mano en el medio de la espalda y pierna en el medio de ella
 
 ### Ashi Waza: Técnicas de pierna
 Memorization: Ashi Waza -> De-ashi-harai
-- [De-ashi-harai](https://www.youtube.com/watch?v=4BUUvqxi_Kk) - Jala hacia atrás y cuando vuelva golpea el pie izquierdo
-- [okuri-ashi-harai](https://www.youtube.com/watch?v=4BUUvqxi_Kk) - ADD
-- [harai-tsutikomi-ashi](https://www.youtube.com/watch?v=4BUUvqxi_Kk) - ADD
+- [De-ashi-harai](https://example.com) - Jala hacia atrás y cuando vuelva golpea el pie izquierdo
+- [okuri-ashi-harai](https://example.com) - ADD
+- [harai-tsutikomi-ashi](https://example.com) - ADD
 - [Hiza-guruma](https://example.com) - rueda por la rodilla
 - [Sasae-tsurikomi-ashi](https://example.com) - rueda por el pie
 - [osoto-gari](https://example.com) - ADD
 - [osoto-otoshi](https://example.com) - ADD
 - [osoto-guruma](https://example.com) - osoto-gari em las 2 piernas
 - [kosoto-gari](https://example.com) - pierna isquierda por fuera de la pierna derecha
-- [Kosoto-gake](https://www.youtube.com/watch?v=0itJFhV9pDQ) - kosoto-gari con gancho
-- [Ko-uchi-gari](https://www.youtube.com/watch?v=0itJFhV9pDQ) - Gancho interno pierna derecha
-- [O-uchi-gari](https://www.youtube.com/watch?v=0itJFhV9pDQ) - Gancho interno pierna izquierda mano para tras
+- [Kosoto-gake](https://example.com) - kosoto-gari con gancho
+- [Ko-uchi-gari](https://example.com) - Gancho interno pierna derecha
+- [O-uchi-gari](https://example.com) - Gancho interno pierna izquierda mano para tras
 - [O-guruma](https://example.com) - ADD
 - [Ashi-guruma](https://example.com) - O-guruma en las rodillas
-- [Uchi-mata](https://www.youtube.com/watch?v=0itJFhV9pDQ) - ADD
+- [Uchi-mata](https://example.com) - ADD
 
 ### Te Waza: Técnicas de Hombro y brazo
 Memorization: Te Waza -> Morote-seoi-nage
-- [Morote-seoi-nage](https://www.youtube.com/watch?v=UjtL1h9htb8) - Ippon, pero con mano en el cuello derecho
-- [Ippon-seoi-nage](https://www.youtube.com/watch?v=FQnOlCxo4oI) - Proyección de hombro con agarre de ippon
-- [Seoi-otoshi](https://www.youtube.com/watch?v=vu1TMVNnq34) - Agarre de ippon y se proyecta de rodilla
+- [Morote-seoi-nage](https://example.com) - Ippon, pero con mano en el cuello derecho
+- [Ippon-seoi-nage](https://example.com) - Proyección de hombro con agarre de ippon
+- [Seoi-otoshi](https://example.com) - Agarre de ippon y se proyecta de rodilla
 
 ### Sutemi Waza: Técnicas de sacrificio
 
 #### Ma Sutemi Waza: Técnicas de Sacrificio con apoyo de espalda
-- [Tomoe Nage](https://www.youtube.com/watch?v=NDaQuJOFBYk) - 
-- [Sumi Gaeshi](https://www.youtube.com/watch?v=NDaQuJOFBYk) -
-- [Hikikomi Gaeshi](https://www.youtube.com/watch?v=NDaQuJOFBYk) -
-- [Ura Nage](https://www.youtube.com/watch?v=NDaQuJOFBYk) -
+- [Tomoe Nage](https://example.com) - 
+- [Sumi Gaeshi](https://example.com) -
+- [Hikikomi Gaeshi](https://example.com) -
+- [Ura Nage](https://example.com) -
 
 #### Yoko Sutemi Waza: Técnicas de Sacrificio con apoyo de un costado
-- [Yoko otoshi](https://www.youtube.com/watch?v=NDaQuJOFBYk) -
-- [Tani otoshi](https://www.youtube.com/watch?v=NDaQuJOFBYk) -
-- [Hanae Makikomi](https://www.youtube.com/watch?v=NDaQuJOFBYk) -
-- [Soto Makikomi](https://www.youtube.com/watch?v=NDaQuJOFBYk) -
-- [Uki Waza](https://www.youtube.com/watch?v=NDaQuJOFBYk) -
-- [Yoko Wakare](https://www.youtube.com/watch?v=NDaQuJOFBYk) -
-- [Yoko guruma](https://www.youtube.com/watch?v=NDaQuJOFBYk) -
-- [Yoko gake](https://www.youtube.com/watch?v=NDaQuJOFBYk) -
+- [Yoko otoshi](https://example.com) -
+- [Tani otoshi](https://example.com) -
+- [Hanae Makikomi](https://example.com) -
+- [Soto Makikomi](https://example.com) -
+- [Uki Waza](https://example.com) -
+- [Yoko Wakare](https://example.com) -
+- [Yoko guruma](https://example.com) -
+- [Yoko gake](https://example.com) -
 - 
 
 # Fundamentos Judo de Suelo
@@ -102,28 +102,28 @@ Memorization: Te Waza -> Morote-seoi-nage
 - Anticipación
 
 ## Kansetsu Waza: Luxaciones
-- [Juji gatame](https://www.youtube.com/watch?v=NDaQuJOFBYk) - Llave de brazo
-- [Ude gatame](https://www.youtube.com/watch?v=NDaQuJOFBYk) - Violino con Rodilla en el abdomen y agarra el codo
-- [Ude garami](https://www.youtube.com/watch?v=NDaQuJOFBYk) - Americana
-- [Ashi garame](https://www.youtube.com/watch?v=NDaQuJOFBYk)
-- [Sankako gatame](https://www.youtube.com/watch?v=NDaQuJOFBYk) - Llave de brazo desde triangulo
-- [Waki gatame](https://www.youtube.com/watch?v=NDaQuJOFBYk) - Rompe el brazo de pie
+- [Juji gatame](https://example.com) - Llave de brazo
+- [Ude gatame](https://example.com) - Violino con Rodilla en el abdomen y agarra el codo
+- [Ude garami](https://example.com) - Americana
+- [Ashi garame](https://example.com)
+- [Sankako gatame](https://example.com) - Llave de brazo desde triangulo
+- [Waki gatame](https://example.com) - Rompe el brazo de pie
 
 ## Shime Waza: Estrangulaciones
 Memorization: Nami = Nami LOL, Waves
-- [Hadaka Jime](https://www.youtube.com/watch?v=NDaQuJOFBYk) - Mano con mano
-- [Hadaka ha Jime](https://www.youtube.com/watch?v=NDaQuJOFBYk) - Mata león
-- [Kata ha Jime](https://www.youtube.com/watch?v=NDaQuJOFBYk) - Pulgar en el cuello, otra mano pasando por el brazo detrás de la cabeza
-- [Okuri eri Jime](https://www.youtube.com/watch?v=NDaQuJOFBYk) - Una por ariba otra por abajo - Pulgar en el cuello por arriba, otra mano por debajo del brazo
-- [Sode guruma Jime](https://www.youtube.com/watch?v=NDaQuJOFBYk)
-- [Sankaku jime](https://www.youtube.com/watch?v=NDaQuJOFBYk) - Triángulo
-- [Kata te jime](https://www.youtube.com/watch?v=NDaQuJOFBYk)
+- [Hadaka Jime](https://example.com) - Mano con mano
+- [Hadaka ha Jime](https://example.com) - Mata león
+- [Kata ha Jime](https://example.com) - Pulgar en el cuello, otra mano pasando por el brazo detrás de la cabeza
+- [Okuri eri Jime](https://example.com) - Una por ariba otra por abajo - Pulgar en el cuello por arriba, otra mano por debajo del brazo
+- [Sode guruma Jime](https://example.com)
+- [Sankaku jime](https://example.com) - Triángulo
+- [Kata te jime](https://example.com)
 
 
 ## Osaekomi Waza: Tecnicas de Inmovilizaciones
-- [Hon Kesa gatame](https://www.youtube.com/watch?v=NDaQuJOFBYk) - Una mano abrazando la cabeza, dedo en el cuello, otra sujetando el brazo y agarrando el kimono, piernas en tijera, baja la cabeza
-- [Kuzure kesa gatame](https://www.youtube.com/watch?v=Q2fb9jaoUFQ) - Una mano abrazando el brazo por abajo, otra sujetando el brazo y agarrando el kimono, piernas en tijera
-- [Kata gatame](https://www.youtube.com/watch?v=zQR3IOXxO_Q) - Montado, pasa el brazo al lado y abraza la cabeza y el brazo con el otro, mano con mano
+- [Hon Kesa gatame](https://example.com) - Una mano abrazando la cabeza, dedo en el cuello, otra sujetando el brazo y agarrando el kimono, piernas en tijera, baja la cabeza
+- [Kuzure kesa gatame](https://example.com) - Una mano abrazando el brazo por abajo, otra sujetando el brazo y agarrando el kimono, piernas en tijera
+- [Kata gatame](https://example.com) - Montado, pasa el brazo al lado y abraza la cabeza y el brazo con el otro, mano con mano
 
 # Glosario
 - **Rei**: Saludo de pie

@@ -2,6 +2,7 @@
 # Guía de Judo
 
 ## Tabla de Contenidos
+- [Useful Links](#useful-links)
 - [Ukemi](#ukemi)
 - [Fundamentos Judo de Pie](#fundamentos-judo-de-pie)
   - [Grupos de Técnicas](#grupos-de-técnicas)
@@ -17,6 +18,9 @@
 - [Glosario](#glosario)
 
 ---
+
+# Useful Links
+- https://www.gimnasiolee.com/judo_html/tecnicas_judo.html
 
 # Ukemi
 **Ukemi**: Caídas
@@ -36,19 +40,21 @@
 
 ## Grupos de Técnicas
 ### Koshi Waza: Técnicas de cadera
-
+Memorization: Koshi Waza -> Koshi-guruma  
+- [Koshi-guruma](https://www.youtube.com/watch?v=SU7Id6uVJ44) - Abraza la cabeza y proyecta de cadera
 - [O Goshi](https://www.youtube.com/watch?v=yhu1mfy2vJ4) - Abraza la cintura y pasa tu cadera
 - [Uki Goshi](https://www.youtube.com/watch?v=bPKwtB4lyOQ) - Mano en el medio de la espalda y pierna en el medio de ella
-- [Koshi-guruma](https://www.youtube.com/watch?v=SU7Id6uVJ44) - Abraza la cabeza y proyecta de cadera
 
 ### Ashi Waza: Técnicas de pierna
+Memorization: Ashi Waza -> De-ashi-harai
+- [De-ashi-harai](https://www.youtube.com/watch?v=4BUUvqxi_Kk) - Jala hacia atrás y cuando vuelva golpea el pie izquierdo
 - [O-uchi-gari](https://www.youtube.com/watch?v=0itJFhV9pDQ) - Gancho pierna izquierda
 - [O-uchi-gari](https://www.youtube.com/watch?v=0itJFhV9pDQ) - Gancho pierna derecha
-- [De-ashi-harai](https://www.youtube.com/watch?v=4BUUvqxi_Kk) - Jala hacia atrás y cuando vuelva golpea el pie izquierdo
 
 ### Te Waza: Técnicas de brazo
-- [Ippon-seoi-nage](https://www.youtube.com/watch?v=FQnOlCxo4oI) - Proyección de hombro con agarre de ippon
+Memorization: Te Waza -> Morote-seoi-nage
 - [Morote-seoi-nage](https://www.youtube.com/watch?v=UjtL1h9htb8) - Ippon, pero con mano en el cuello derecho
+- [Ippon-seoi-nage](https://www.youtube.com/watch?v=FQnOlCxo4oI) - Proyección de hombro con agarre de ippon
 - [Seoi-otoshi](https://www.youtube.com/watch?v=vu1TMVNnq34) - Agarre de ippon y se proyecta de rodilla
 
 ### Sutemi Waza: Técnicas de sacrificio

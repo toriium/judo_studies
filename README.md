@@ -10,11 +10,18 @@
     - [Ashi Waza: Técnicas de pierna](#ashi-waza-técnicas-de-pierna)
     - [Te Waza: Técnicas de brazo](#te-waza-técnicas-de-brazo)
     - [Sutemi Waza: Técnicas de sacrificio](#sutemi-waza-técnicas-de-sacrificio)
+      - [Ma Sutemi Waza](#ma-sutemi-waza-técnicas-de-sacrificio-con-apoyo-de-espalda)
+      - [Yoko Sutemi Waza](#yoko-sutemi-waza-técnicas-de-sacrificio-con-apoyo-de-un-costado)
 - [Fundamentos Judo de Suelo](#fundamentos-judo-de-suelo)
   - [Base de las inmovilizaciones](#base-de-las-inmovilizaciones)
   - [Kansetsu Waza: Luxaciones](#kansetsu-waza-luxaciones)
   - [Shime Waza: Estrangulaciones](#shime-waza-estrangulaciones)
   - [Osaekomi Waza: Inmovilizaciones](#osaekomi-waza-inmovilizaciones)
+- [Shisei: Posturas](#shisei-posturas)
+  - [Defensa](#defensa)
+  - [Natural](#natural)
+- [Posiciones](#posiciones)
+- [Tipos de Entrenamiento](#typos-de-entrenamiento)
 - [Glosario](#glosario)
 
 ---

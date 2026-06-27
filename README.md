@@ -70,12 +70,18 @@ Memorization: Ashi Waza -> De-ashi-harai
 - [O-guruma](https://example.com) - ADD
 - [Ashi-guruma](https://example.com) - O-guruma en las rodillas
 - [Uchi-mata](https://example.com) - ADD
+- [harai goshi](https://example.com) - ADD
+- [hane goshi](https://example.com) - ADD
 
 ### Te Waza: Técnicas de Hombro y brazo
 Memorization: Te Waza -> Morote-seoi-nage
 - [Morote-seoi-nage](https://example.com) - Ippon, pero con mano en el cuello derecho
 - [Ippon-seoi-nage](https://example.com) - Proyección de hombro con agarre de ippon
 - [Seoi-otoshi](https://example.com) - Agarre de ippon y se proyecta de rodilla
+- [Tai-otoshi](https://example.com) - Kumikata normal, dobla una pierna y estira la otra
+- [Kata guruma](https://example.com) - agarre de piernas e levar uke as la espalda
+- [Uki Otoshi](https://example.com) - Kumikata normal, empurro com a mao esquerda a dar um passo para tras, depois volto o pé esquerdo e giro com a mao direita
+- 
 
 ### Sutemi Waza: Técnicas de sacrificio
 
@@ -112,12 +118,14 @@ Memorization: Te Waza -> Morote-seoi-nage
 - [Juji gatame](https://example.com) - Llave de brazo
 - [Ude gatame](https://example.com) - Violino con Rodilla en el abdomen y agarra el codo
 - [Ude garami](https://example.com) - Americana
-- [Ashi garame](https://example.com)
+- [Ashi garame](https://example.com) - chave de pé
 - [Sankako gatame](https://example.com) - Llave de brazo desde triangulo
-- [Waki gatame](https://example.com) - Rompe el brazo de pie
+- [Waki gatame](https://example.com) - Rompe el brazo de pie, o desde el suelo opoennte boca bajo e tu pega um brazo e ergue
 
 ## Shime Waza: Estrangulaciones
-Memorization: Nami = Nami LOL, Waves
+Memorization:
+- El sonido que se hace para dormir es "shhhh"
+- Nami = Nami LOL, one piece, Waves
 - [Hadaka Jime](https://example.com) - Mano con mano
 - [Hadaka ha Jime](https://example.com) - Mata león
 - [Kata ha Jime](https://example.com) - Pulgar en el cuello, otra mano pasando por el brazo detrás de la cabeza
@@ -154,16 +162,18 @@ Memorization: Nami = Nami LOL, Waves
 # Typos de Entrenamiento
 - **Uchikomi**: Repeticiones de técnica sin proyección
 - **Nagekomi**: Repeticion de tecnica con Proyecciones
-- **Yaku Soku Geiko**: Estudio de ataque sin efensa
+- **Yaku Soku Geiko**: Estudio de ataque sin efensa, Entremaito acordado
 - **kakari geiko**: Entrenamiento de ataque con defensa
 - **Randori**: Práctica libre
 - **tandoku renshu**: Entrenamiento individual/solo
 - **Sotai Reshu**: Entrenamiento en pareja
 
+# Desplazamineto
+Shintai: Desplazamientos de los pies
+- **Tai-sabaki**: Desplazamiento del cuerpo, esquiva de lado
+
 # Glosario
 - **Tokui Waza**: Técnica especial de pie y suelo
-- **Sintae**: Desplazamientos de los pies y corpo
-- **Tai sabaki**: Desplazamiento del cuerpo
 - **Kumikata**: Agarre del kimono
 - **Renraku Waza**: Combinaciones
 - **Renzoku Waza**: Encadenamientos

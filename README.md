@@ -52,11 +52,14 @@ Memorization: Koshi Waza -> Koshi-guruma
 - [Koshi-guruma](https://example.com) - Abraza la cabeza y proyecta de cadera
 - [O Goshi](https://example.com) - Abraza la cintura y pasa tu cadera
 - [Uki Goshi](https://example.com) - Mano en el medio de la espalda y pierna en el medio de ella
+- [Sode Tsurikomi goshi](https://example.com) - Ipon pegada nas duas maos
+- [Tsurikomi goshi](https://example.com) - Sode Tsurikomi goshi con .....
+- 
 
 ### Ashi Waza: Técnicas de pierna
 Memorization: Ashi Waza -> De-ashi-harai
-- [De-ashi-harai](https://example.com) - Jala hacia atrás y cuando vuelva golpea el pie izquierdo
-- [okuri-ashi-harai](https://example.com) - ADD
+- [De-ashi-harai](https://example.com) - Jala hacia atrás y cuando vuelva golpea el pie izquierdo horizontal
+- [okuri-ashi-harai](https://example.com) - Jala hacia atrás y cuando vuelva golpea el pie izquierdo diagonal
 - [harai-tsutikomi-ashi](https://example.com) - ADD
 - [Hiza-guruma](https://example.com) - rueda por la rodilla
 - [Sasae-tsurikomi-ashi](https://example.com) - rueda por el pie
@@ -67,7 +70,7 @@ Memorization: Ashi Waza -> De-ashi-harai
 - [Kosoto-gake](https://example.com) - kosoto-gari con gancho
 - [Ko-uchi-gari](https://example.com) - Gancho interno pierna derecha
 - [O-uchi-gari](https://example.com) - Gancho interno pierna izquierda mano para tras
-- [O-guruma](https://example.com) - ADD
+- [O-guruma](https://example.com) - passo cruzado gira e coloca o pe estirado na cadera, fazendo um giro
 - [Ashi-guruma](https://example.com) - O-guruma en las rodillas
 - [Uchi-mata](https://example.com) - ADD
 - [harai goshi](https://example.com) - ADD
@@ -126,11 +129,15 @@ Memorization: Te Waza -> Morote-seoi-nage
 Memorization:
 - El sonido que se hace para dormir es "shhhh"
 - Nami = Nami LOL, one piece, Waves
+How to present ? each group?
+- [Nami juji jime](https://example.com) - Estrangulamiento cruzado polegar dentro
+- [Gyaku juji jime](https://example.com) - Estrangulamiento cruzado polegar fora
+- [Kata juji jime](https://example.com) - Estrangulamiento cruzado polegar alternado
 - [Hadaka Jime](https://example.com) - Mano con mano
 - [Hadaka ha Jime](https://example.com) - Mata león
 - [Kata ha Jime](https://example.com) - Pulgar en el cuello, otra mano pasando por el brazo detrás de la cabeza
 - [Okuri eri Jime](https://example.com) - Una por ariba otra por abajo - Pulgar en el cuello por arriba, otra mano por debajo del brazo
-- [Sode guruma Jime](https://example.com)
+- [Sode guruma Jime](https://example.com) - Ezequiel
 - [Sankaku jime](https://example.com) - Triángulo
 - [Kata te jime](https://example.com)
 

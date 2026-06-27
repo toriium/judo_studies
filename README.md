@@ -102,11 +102,11 @@ Memorization: Te Waza -> Morote-seoi-nage
 
 
 ## Base de las inmovilizaciones
-- Puntos de apoyo
-- Distribución del peso
-- Control del movimiento del adversario
-- Flotabilidad: Mantener el equilibrio y la estabilidad mientras se controla al oponente
-- Anticipación
+- Contacto 
+- Puntos de apoyo 
+- Colocación del peso del cuerpo
+- Flotavilidad 
+- Control
 
 ## Kansetsu Waza: Luxaciones
 - [Juji gatame](https://example.com) - Llave de brazo
@@ -131,6 +131,9 @@ Memorization: Nami = Nami LOL, Waves
 - [Hon Kesa gatame](https://example.com) - Una mano abrazando la cabeza, dedo en el cuello, otra sujetando el brazo y agarrando el kimono, piernas en tijera, baja la cabeza
 - [Kuzure kesa gatame](https://example.com) - Una mano abrazando el brazo por abajo, otra sujetando el brazo y agarrando el kimono, piernas en tijera
 - [Kata gatame](https://example.com) - Montado, pasa el brazo al lado y abraza la cabeza y el brazo con el otro, mano con mano
+- [Yoko gatame](https://example.com) - Control de costado
+- [Kami Gatame](https://example.com) - North-south, control de cabeza
+- [Tate Gatame](https://example.com) - Montada, pegada de kata-gatame e pes nas rodilhas
 
 
 # Shisei: Posturas

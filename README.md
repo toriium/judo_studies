@@ -33,8 +33,7 @@
 - https://judo.ijf.org/classification
 - https://www.gimnasiolee.com/judo_html/tecnicas_judo.html
 
-# Ukemi
-**Ukemi**: Caídas
+# Ukemis - Caídas
 - Mae-ukemi: Caída hacia adelante
 - Yoko-ukemi: Caída lateral
   - Migi yoko ukemi: Derecha
@@ -109,8 +108,17 @@ Memorization: Te Waza -> Morote-seoi-nage
 # Katame-waza - Tecnicas de control
 **Ne Waza**: Técnicas de suelo, especifico para donde se aplica la técnica: el suelo
 
+## Bases de control
+- Contacto 
+- Puntos de apoyo 
+- Colocación del peso del cuerpo
+- Flotavilidad 
+- Control
 
 ## Kansetsu Waza: Luxaciones
+**Bases**:  
+Todas las anteriores + Palanca
+---
 - [Juji gatame](https://example.com) - Llave de brazo
 - [Ude gatame](https://example.com) - Violino con Rodilla en el abdomen y agarra el codo
 - [Ude garami](https://example.com) - Americana
@@ -119,9 +127,16 @@ Memorization: Te Waza -> Morote-seoi-nage
 - [Waki gatame](https://example.com) - Rompe el brazo de pie, o desde el suelo opoennte boca bajo e tu pega um brazo e ergue
 
 ## Shime Waza: Estrangulaciones
+**Bases**:  
+Todas las anteriores + pression
+Typos Estrangulaciones:
+- Aéreas (Presión en la traquea)
+- Sanguíneas (Presión en las arterias o  carotidas que llevan sangre a la cabeza)
+---
 Memorization:
 - El sonido que se hace para dormir es "shhhh"
 - Nami = Nami LOL, one piece, Waves
+---
 - [Nami juji jime](https://example.com) - Estrangulamiento cruzado polegar dentro
 - [Gyaku juji jime](https://example.com) - Estrangulamiento cruzado polegar fora
 - [Kata juji jime](https://example.com) - Estrangulamiento cruzado polegar alternado
@@ -142,14 +157,6 @@ Memorization:
 - [Kami Gatame](https://example.com) - North-south, control de cabeza
 - [Tate Gatame](https://example.com) - Montada, pegada de kata-gatame e pes nas rodilhas
 
-### Base de las inmovilizaciones
-- Contacto 
-- Puntos de apoyo 
-- Colocación del peso del cuerpo
-- Flotavilidad 
-- Control
-
-
 
 # Shisei: Posturas
 ## Defensa
@@ -169,10 +176,10 @@ Memorization:
 # Typos de Entrenamiento
 - **tandoku renshu**: Entrenamiento individual/solo
 - **Sotai Reshu**: Entrenamiento en pareja
-- **Uchikomi**: Repeticiones de técnica sin proyección
-- **Nagekomi**: Repeticion de tecnica con Proyecciones
-- **Yaku Soku Geiko**: Estudio de ataque sin efensa, Entremaito acordado
-- **kakari geiko**: Entrenamiento de ataque con defensa
+- **Uchikomi**: Repeticiones de técnica en estatico sin proyección
+- **Nagekomi**: Repeticion de tecnica en estatico con Proyecciones
+- **Yaku Soku Geiko**: Estudio en desplazamineto de ataque sin efensa, Entremaito acordado
+- **kakari geiko**: Estudio en desplazamineto de ataque con defensa
 - **Randori**: Práctica libre
 
 # Kumikata: Agarre del kimono

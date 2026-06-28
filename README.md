@@ -119,10 +119,11 @@ Memorization: Te Waza -> Morote-seoi-nage
 **Bases**:  
 Todas las anteriores + Palanca
 ---
-- [Juji gatame](https://example.com) - Llave de brazo
-- [Ude gatame](https://example.com) - Violino con Rodilla en el abdomen y agarra el codo
+- [Ude Hishigi Juji gatame](https://example.com) - Llave de brazo
 - [Ude garami](https://example.com) - Americana
-- [Ashi garame](https://example.com) - chave de pé
+- [Gyaku Ude garami](https://example.com) - Kimura
+- [Ude gatame](https://example.com) - Violino con Rodilla en el abdomen y agarra el codo, mano de uke debe estar en sulapa oposta
+- [Ashi garame](https://example.com) - Llave de pé
 - [Sankako gatame](https://example.com) - Llave de brazo desde triangulo
 - [Waki gatame](https://example.com) - Rompe el brazo de pie, o desde el suelo opoennte boca bajo e tu pega um brazo e ergue
 
@@ -152,10 +153,11 @@ Memorization:
 ## Osaekomi Waza: Tecnicas de Inmovilizaciones
 - [Hon Kesa gatame](https://example.com) - Una mano abrazando la cabeza, dedo en el cuello, otra sujetando el brazo y agarrando el kimono, piernas en tijera, baja la cabeza
 - [Kuzure kesa gatame](https://example.com) - Una mano abrazando el brazo por abajo, otra sujetando el brazo y agarrando el kimono, piernas en tijera
-- [Kata gatame](https://example.com) - Montado, pasa el brazo al lado y abraza la cabeza y el brazo con el otro, mano con mano
-- [Yoko gatame](https://example.com) - Control de costado
-- [Kami Gatame](https://example.com) - North-south, control de cabeza
-- [Tate Gatame](https://example.com) - Montada, pegada de kata-gatame e pes nas rodilhas
+- [Kata gatame](https://example.com) - De lado, 1 rodilla doblada otra estirada, Mano con mano
+- [Yoko Shiho gatame](https://example.com) - Control de costado, una mano por tras de la cabeza, otra zbrazando la pierna con mano en el cinturon.
+- [Kami Shiho Gatame](https://example.com) - North-south, control de cabeza, manos por bajo del brazo, agare en cinturon
+- [Kuzure Kami Shiho Gatame](https://example.com) - Kami gatame con una mano agarando la gola por tras de la cabeza
+- [Tate Shiho Gatame](https://example.com) - Montada, pegada de kata-gatame e pes nas rodilhas
 
 
 # Shisei: Posturas

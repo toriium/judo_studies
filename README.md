@@ -3,20 +3,20 @@
 
 ## Tabla de Contenidos
 - [Useful Links](#useful-links)
-- [Ukemi](#ukemi)
-- [Nage Waza - Técnicas de proyección](#nage-waza-tecnicas-de-proyeccion)
-  - [Grupo Tachi Waza - Técnicas de pie](#grupo-tachi-waza-tecnicas-de-pie)
-    - [Koshi Waza: Técnicas de cadera](#koshi-waza-tecnicas-de-cadera)
-    - [Ashi Waza: Técnicas de pierna](#ashi-waza-tecnicas-de-pierna)
-    - [Te Waza: Técnicas de Hombro y brazo](#te-waza-tecnicas-de-hombro-y-brazo)
-  - [Grupo Sutemi Waza: Técnicas de sacrificio](#grupo-sutemi-waza-tecnicas-de-sacrificio)
-    - [Ma Sutemi Waza: Técnicas de Sacrificio con apoyo de espalda](#ma-sutemi-waza-tecnicas-de-sacrificio-con-apoyo-de-espalda)
-    - [Yoko Sutemi Waza: Técnicas de Sacrificio con apoyo de un costado](#yoko-sutemi-waza-tecnicas-de-sacrificio-con-apoyo-de-un-costado)
-- [Katame-waza - Tecnicas de control](#katame-waza-tecnicas-de-control)
+- [Ukemis - Caídas](#ukemis---caídas)
+- [Nage Waza - Técnicas de proyección](#nage-waza---técnicas-de-proyección)
+  - [Grupo Tachi Waza - Técnicas de pie](#grupo-tachi-waza---técnicas-de-pie)
+    - [Koshi Waza: Técnicas de cadera](#koshi-waza-técnicas-de-cadera)
+    - [Ashi Waza: Técnicas de pierna](#ashi-waza-técnicas-de-pierna)
+    - [Te Waza: Técnicas de Hombro y brazo](#te-waza-técnicas-de-hombro-y-brazo)
+  - [Grupo Sutemi Waza: Técnicas de sacrificio](#grupo-sutemi-waza---técnicas-de-sacrificio)
+    - [Ma Sutemi Waza: Técnicas de Sacrificio con apoyo de espalda](#ma-sutemi-waza---técnicas-de-sacrificio-con-apoyo-de-espalda)
+    - [Yoko Sutemi Waza: Técnicas de Sacrificio con apoyo de un costado](#yoko-sutemi-waza---técnicas-de-sacrificio-con-apoyo-de-un-costado)
+- [Katame-waza - Tecnicas de control](#katame-waza---tecnicas-de-control)
+  - [Bases de control](#bases-de-control)
   - [Kansetsu Waza: Luxaciones](#kansetsu-waza-luxaciones)
   - [Shime Waza: Estrangulaciones](#shime-waza-estrangulaciones)
   - [Osaekomi Waza: Tecnicas de Inmovilizaciones](#osaekomi-waza-tecnicas-de-inmovilizaciones)
-  - [Base de las inmovilizaciones](#base-de-las-inmovilizaciones)
 - [Shisei: Posturas](#shisei-posturas)
   - [Defensa](#defensa)
   - [Natural](#natural)
@@ -54,15 +54,15 @@
 - [O Goshi](https://example.com) - Abraza la cintura y pasa tu cadera
 - [Uki Goshi](https://example.com) - Mano en el medio de la espalda y pierna en el medio de ella
 - [Sode Tsurikomi goshi](https://example.com) - Ipon pegada nas duas maos
-- [Tsurikomi goshi](https://example.com) - Sode Tsurikomi goshi con .....
+- [Tsurikomi goshi](https://example.com) - Sode Tsurikomi goshi con pegada na gola y manga
 
 ### Ashi Waza: Técnicas de pierna
 **Memorization:** Ashi Waza -> De-ashi-harai
 - [De-ashi-harai](https://example.com) - Jala hacia atrás y cuando vuelva golpea el pie izquierdo horizontal
-- [okuri-ashi-harai](https://example.com) - Jala hacia atrás y cuando vuelva golpea el pie izquierdo diagonal
-- [harai-tsutikomi-ashi](https://example.com) - ADD
-- [Hiza-guruma](https://example.com) - rueda por la rodilla
-- [Sasae-tsurikomi-ashi](https://example.com) - rueda por el pie
+- [okuri-ashi-harai](https://example.com) - de ashi harai de lado, juntando as duas pernas
+- [harai-tsutikomi-ashi](https://example.com) - de ashi harai de enpurando o pe para frente e subindo a uke
+- [Hiza-guruma](https://example.com) - rueda por la rodilla, perna de uke atras
+- [Sasae-tsurikomi-ashi](https://example.com) - rueda por el pie, perna de uke adelante
 - [osoto-gari](https://example.com) - ADD
 - [osoto-otoshi](https://example.com) - ADD
 - [osoto-guruma](https://example.com) - osoto-gari em las 2 piernas
@@ -210,6 +210,6 @@ Se pode fazer Ayumi ashi e tsugi ashi sem arrastar os pés, em forma de suri ash
 # Glosario
 - **Waza**: Técnica
 - **Tokui Waza**: Técnica especial de pie y suelo
-- **Renraku Waza**: Combinaciones
-- **Renzoku Waza**: Encadenamientos
+- **Renraku Waza**: Combinaciones de desequilibrio
+- **Renzoku Waza**: Encadenamientos de desequilibrio
 - **Shiai**: Reglas de competición

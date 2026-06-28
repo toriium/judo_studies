@@ -167,21 +167,41 @@ How to present ? each group?
 - **Za-rei**: Saludo de rodillas - Posicion Seiza
 
 # Typos de Entrenamiento
+- **tandoku renshu**: Entrenamiento individual/solo
+- **Sotai Reshu**: Entrenamiento en pareja
 - **Uchikomi**: Repeticiones de técnica sin proyección
 - **Nagekomi**: Repeticion de tecnica con Proyecciones
 - **Yaku Soku Geiko**: Estudio de ataque sin efensa, Entremaito acordado
 - **kakari geiko**: Entrenamiento de ataque con defensa
 - **Randori**: Práctica libre
-- **tandoku renshu**: Entrenamiento individual/solo
-- **Sotai Reshu**: Entrenamiento en pareja
 
-# Desplazamineto
-Shintai: Desplazamientos de los pies
-- **Tai-sabaki**: Desplazamiento del cuerpo, esquiva de lado
+# Kumikata: Agarre del kimono
+- Tsurite: solapa - Mano que pesca/mano que ergue - quebra o equilibrio
+- Hikite: manga - Mano que puxa - direciona el desequilibrio
+
+# Shintai: Desplazamiento
+Se pode fazer Ayumi ashi e tsugi ashi sem arrastar os pés, em forma de suri ashi 
+- Ayumi Ashi: Paso normal, paso ultrapassa o outro
+- Tsugi Ashi: Paso de **nage no kata**, un pe no adeelana el otro
+- Suri Ashi: arrastrar los pies, englobla los 2 anteriores
+
+## Tai-sabaki: Desplazamiento en giro
+- Mae-sabaki (90ª frente)
+  - Migi mae-sabaki: (90ª frente derecha)
+  - Hidari mae-sabaki: (90ª frente izquierda)
+- Ushiro-sabaki: (90ª tras)
+  - Migi ushiro-sabaki: (90ª tras derecha)
+  - Hidari ushiro-sabaki: (90ª tras izquierda)
+- Mae-mawari-sabaki: (180ª frente)
+  - Migi mae-mawari-sabaki: (180ª frente derecha)
+  - Hidari mae-mawari-sabaki: (180ª frente izquierda)
+- Ushiro-mawari-sabaki: (180ª tras)
+  - Migi ushiro-mawari-sabaki: (180ª tras derecha)
+  - Hidari ushiro-mawari-sabaki: (180ª tras izquierda)
+
 
 # Glosario
 - **Tokui Waza**: Técnica especial de pie y suelo
-- **Kumikata**: Agarre del kimono
 - **Renraku Waza**: Combinaciones
 - **Renzoku Waza**: Encadenamientos
 - **Shiai**: Reglas de competición

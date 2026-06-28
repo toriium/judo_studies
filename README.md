@@ -4,29 +4,33 @@
 ## Tabla de Contenidos
 - [Useful Links](#useful-links)
 - [Ukemi](#ukemi)
-- [Fundamentos Judo de Pie](#fundamentos-judo-de-pie)
-  - [Grupos de Técnicas](#grupos-de-técnicas)
-    - [Koshi Waza: Técnicas de cadera](#koshi-waza-técnicas-de-cadera)
-    - [Ashi Waza: Técnicas de pierna](#ashi-waza-técnicas-de-pierna)
-    - [Te Waza: Técnicas de brazo](#te-waza-técnicas-de-brazo)
-    - [Sutemi Waza: Técnicas de sacrificio](#sutemi-waza-técnicas-de-sacrificio)
-      - [Ma Sutemi Waza](#ma-sutemi-waza-técnicas-de-sacrificio-con-apoyo-de-espalda)
-      - [Yoko Sutemi Waza](#yoko-sutemi-waza-técnicas-de-sacrificio-con-apoyo-de-un-costado)
-- [Fundamentos Judo de Suelo](#fundamentos-judo-de-suelo)
-  - [Base de las inmovilizaciones](#base-de-las-inmovilizaciones)
+- [Nage Waza - Técnicas de proyección](#nage-waza-tecnicas-de-proyeccion)
+  - [Grupo Tachi Waza - Técnicas de pie](#grupo-tachi-waza-tecnicas-de-pie)
+    - [Koshi Waza: Técnicas de cadera](#koshi-waza-tecnicas-de-cadera)
+    - [Ashi Waza: Técnicas de pierna](#ashi-waza-tecnicas-de-pierna)
+    - [Te Waza: Técnicas de Hombro y brazo](#te-waza-tecnicas-de-hombro-y-brazo)
+  - [Grupo Sutemi Waza: Técnicas de sacrificio](#grupo-sutemi-waza-tecnicas-de-sacrificio)
+    - [Ma Sutemi Waza: Técnicas de Sacrificio con apoyo de espalda](#ma-sutemi-waza-tecnicas-de-sacrificio-con-apoyo-de-espalda)
+    - [Yoko Sutemi Waza: Técnicas de Sacrificio con apoyo de un costado](#yoko-sutemi-waza-tecnicas-de-sacrificio-con-apoyo-de-un-costado)
+- [Katame-waza - Tecnicas de control](#katame-waza-tecnicas-de-control)
   - [Kansetsu Waza: Luxaciones](#kansetsu-waza-luxaciones)
   - [Shime Waza: Estrangulaciones](#shime-waza-estrangulaciones)
-  - [Osaekomi Waza: Inmovilizaciones](#osaekomi-waza-inmovilizaciones)
+  - [Osaekomi Waza: Tecnicas de Inmovilizaciones](#osaekomi-waza-tecnicas-de-inmovilizaciones)
+  - [Base de las inmovilizaciones](#base-de-las-inmovilizaciones)
 - [Shisei: Posturas](#shisei-posturas)
   - [Defensa](#defensa)
   - [Natural](#natural)
 - [Posiciones](#posiciones)
-- [Tipos de Entrenamiento](#typos-de-entrenamiento)
+- [Typos de Entrenamiento](#typos-de-entrenamiento)
+- [Kumikata: Agarre del kimono](#kumikata-agarre-del-kimono)
+- [Shintai: Desplazamiento](#shintai-desplazamiento)
+  - [Tai-sabaki: Desplazamiento en giro](#tai-sabaki-desplazamiento-en-giro)
 - [Glosario](#glosario)
 
 ---
 
 # Useful Links
+- https://judo.ijf.org/classification
 - https://www.gimnasiolee.com/judo_html/tecnicas_judo.html
 
 # Ukemi
@@ -38,26 +42,23 @@
 - Ushiro-ukemi: Caída hacia atrás
 - Mae-mawari-ukemi: Rodada hacia adelante
 
-# Fundamentos Judo de Pie
-**Tachi Waza**: Técnicas de pie
-**Nage Waza**: Técnicas de proyección
-
+# Nage Waza - Técnicas de proyección
 **Kuzushi**: Desequilibrio  
 **Tsukuri**: Preparación  
 **Kake**: Proyección  
 
-## Grupos de Técnicas
+## Grupo Tachi Waza - Técnicas de pie
+
 ### Koshi Waza: Técnicas de cadera
-Memorization: Koshi Waza -> Koshi-guruma  
+**Memorization:** Koshi Waza -> Koshi-guruma  
 - [Koshi-guruma](https://example.com) - Abraza la cabeza y proyecta de cadera
 - [O Goshi](https://example.com) - Abraza la cintura y pasa tu cadera
 - [Uki Goshi](https://example.com) - Mano en el medio de la espalda y pierna en el medio de ella
 - [Sode Tsurikomi goshi](https://example.com) - Ipon pegada nas duas maos
 - [Tsurikomi goshi](https://example.com) - Sode Tsurikomi goshi con .....
-- 
 
 ### Ashi Waza: Técnicas de pierna
-Memorization: Ashi Waza -> De-ashi-harai
+**Memorization:** Ashi Waza -> De-ashi-harai
 - [De-ashi-harai](https://example.com) - Jala hacia atrás y cuando vuelva golpea el pie izquierdo horizontal
 - [okuri-ashi-harai](https://example.com) - Jala hacia atrás y cuando vuelva golpea el pie izquierdo diagonal
 - [harai-tsutikomi-ashi](https://example.com) - ADD
@@ -86,15 +87,15 @@ Memorization: Te Waza -> Morote-seoi-nage
 - [Uki Otoshi](https://example.com) - Kumikata normal, empurro com a mao esquerda a dar um passo para tras, depois volto o pé esquerdo e giro com a mao direita
 - 
 
-### Sutemi Waza: Técnicas de sacrificio
+## Grupo Sutemi Waza: Técnicas de sacrificio
 
-#### Ma Sutemi Waza: Técnicas de Sacrificio con apoyo de espalda
+### Ma Sutemi Waza: Técnicas de Sacrificio con apoyo de espalda
 - [Tomoe Nage](https://example.com) - 
 - [Sumi Gaeshi](https://example.com) -
 - [Hikikomi Gaeshi](https://example.com) -
 - [Ura Nage](https://example.com) -
 
-#### Yoko Sutemi Waza: Técnicas de Sacrificio con apoyo de un costado
+### Yoko Sutemi Waza: Técnicas de Sacrificio con apoyo de un costado
 - [Yoko otoshi](https://example.com) -
 - [Tani otoshi](https://example.com) -
 - [Hanae Makikomi](https://example.com) -
@@ -105,17 +106,9 @@ Memorization: Te Waza -> Morote-seoi-nage
 - [Yoko gake](https://example.com) -
 - 
 
-# Fundamentos Judo de Suelo
-**Ne Waza**: Técnicas de suelo
-**Katame Waza**: Técnicas de control
+# Katame-waza - Tecnicas de control
+**Ne Waza**: Técnicas de suelo, especifico para donde se aplica la técnica: el suelo
 
-
-## Base de las inmovilizaciones
-- Contacto 
-- Puntos de apoyo 
-- Colocación del peso del cuerpo
-- Flotavilidad 
-- Control
 
 ## Kansetsu Waza: Luxaciones
 - [Juji gatame](https://example.com) - Llave de brazo
@@ -129,7 +122,6 @@ Memorization: Te Waza -> Morote-seoi-nage
 Memorization:
 - El sonido que se hace para dormir es "shhhh"
 - Nami = Nami LOL, one piece, Waves
-How to present ? each group?
 - [Nami juji jime](https://example.com) - Estrangulamiento cruzado polegar dentro
 - [Gyaku juji jime](https://example.com) - Estrangulamiento cruzado polegar fora
 - [Kata juji jime](https://example.com) - Estrangulamiento cruzado polegar alternado
@@ -150,13 +142,21 @@ How to present ? each group?
 - [Kami Gatame](https://example.com) - North-south, control de cabeza
 - [Tate Gatame](https://example.com) - Montada, pegada de kata-gatame e pes nas rodilhas
 
+### Base de las inmovilizaciones
+- Contacto 
+- Puntos de apoyo 
+- Colocación del peso del cuerpo
+- Flotavilidad 
+- Control
+
+
 
 # Shisei: Posturas
-## defensa
+## Defensa
 - Jigo hon Tai: Postura Basica de defensa
 - Migi Jigo Tai: Postura defensa de derecha
 - Hidari Jigo Tai: Postura defensa de izquierda
-## natural
+## Natural
 - Shizen Hon Tai: Postura Basica natural
 - Migi Shizen Tai: Postura natural de derecha
 - Hidari Shizen Tai: Postura natural de izquierda
@@ -201,6 +201,7 @@ Se pode fazer Ayumi ashi e tsugi ashi sem arrastar os pés, em forma de suri ash
 
 
 # Glosario
+- **Waza**: Técnica
 - **Tokui Waza**: Técnica especial de pie y suelo
 - **Renraku Waza**: Combinaciones
 - **Renzoku Waza**: Encadenamientos

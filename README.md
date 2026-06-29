@@ -208,10 +208,15 @@ Se pode fazer Ayumi ashi e tsugi ashi sem arrastar os pés, em forma de suri ash
   - Migi ushiro-mawari-sabaki: (180ª tras derecha)
   - Hidari ushiro-mawari-sabaki: (180ª tras izquierda)
 
+# Tipos de ataques:
+**Memorization:**
+- Renraku Waza: RR se combina
+- Renzoku Waza: RZ, Z es depues de R
+---
+- Renraku Waza: Combinaciones de desequilibrio
+- Renzoku Waza: Encadenamientos de desequilibrio
 
 # Glosario
 - **Waza**: Técnica
 - **Tokui Waza**: Técnica especial de pie y suelo
-- **Renraku Waza**: Combinaciones de desequilibrio
-- **Renzoku Waza**: Encadenamientos de desequilibrio
 - **Shiai**: Reglas de competición
